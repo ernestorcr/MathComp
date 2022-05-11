@@ -1,2 +1,2 @@
 # MathComp
-Data for Modular Arithmetic
+Some useful tools for Computational Mathematics and Algebra.
